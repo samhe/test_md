@@ -3,4 +3,4 @@
 pls refer to a [child doc](doc-a.md)
 
 
-pls refer to a [child doc in another folder](dir-a/doc-b.md)
+pls refer to a [child doc in another folder](dir-a/doc-a.md)
